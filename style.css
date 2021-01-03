@@ -59,6 +59,7 @@ ul {
 
 .links:hover {
     background-color: orange;
+    font-size: 30px;
 }
 
 a:visited {
@@ -91,4 +92,15 @@ img {
 }
 img:hover{
     transform: scale(0.9) 
+}
+#contact a{
+    color: aqua;
+    text-decoration: none !important;
+    }
+#contact h4{
+    display: inline;
+    font-size: 40px;
+}
+#contact iframe{
+    width: 100%;
 }
